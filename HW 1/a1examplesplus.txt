@@ -1,0 +1,35 @@
+#1 four_x_cubed_plus_1(num)
+example calls:
+four_x_cubed_plus_1(0)      result & answer: 1
+four_x_cubed_plus_1(2)      result & answer: 33
+four_x_cubed_plus_1(-5)     result & answer: -499
+four_x_cubed_plus_1(10)     result & answer: 4001
+four_x_cubed_plus_1(2.5)    result & answer: 63.5
+
+
+
+#2 mystery_code(str, num)
+example calls:
+mystery_code('abc Iz th1s Secure? n0, no, 9!', 17)      result & answer: PQR xO IW1H hTRJGT? C0, CD, 9!
+mystery_code('hERe c0mEs the sEcret h1nT!', 15)         result & answer: YviV T0DvJ KYV JvTIVK Y1Ek!
+mystery_code('hERe c0mEs the sEcret h1nT!', 10)         result & answer: DanA Y0IaO PDA OaYNAP D1Jp!
+
+
+
+#3 quintuples(li)
+example calls:
+quintuples([2, 5, 1.5, 100, 3, 8, 7, 1, 1, 0, -2, -5])
+    result & answer: [[2, 5, 1.5, 100, 3], [8, 7, 1, 1, 0], [-2, -5]]
+quintuples([])
+    result & answer: [[]]
+quintuples([2, 5, 1.5])
+    result & answer: [[2, 5, 1.5]]
+
+
+
+#4 past_tense(li)
+example calls:
+past_tense(['be', 'try', 'go', 'have'])
+    result & answer: ['was', 'tried', 'went', 'had']
+past_tense(['program', 'debug', 'execute', 'crash', 'repeat', 'eat'])
+    result & answer: ['programmed', 'debugged', 'executed', 'crashed', 'repeated', 'ate']

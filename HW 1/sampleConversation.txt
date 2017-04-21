@@ -1,0 +1,72 @@
+************************Sample dialog with my partner's agent************************************
+
+0A: Derek: My name is Derek, I'm a chef and I cook food.
+I was programmed by Jiawei Zhang. If you don't like
+the way I deal, contact him at jz34@uw.edu.
+
+So, how can I help you today?
+
+0B: Davi: Hi! My name is Davi Lu, and I'm your waiter.
+            I was programmed by Difei Lu. It's my pleasure
+            to service. If there's anything you don't like
+            about me, contact Difei at ldfghh@uw.edu.
+
+1A: Derek: Tell me more.
+
+1B: Davi: I'm listening.
+
+2A: Derek: I see.
+
+2B: Davi: Oh, I see.
+
+3A: Derek: What does that indicate?
+
+3B: Davi: What do you mean by that?
+
+4A: Derek: But why be concerned about it?
+
+4B: Davi: Interesting.
+
+5A: Derek: I am listening.
+
+5B: Davi: You really should start to order.
+
+
+
+
+************************Sample dialog with my agent showing all features************************************
+TYPE HERE:>> hi
+Hi! I will prepare food for you. Are you a vegetarian?
+
+TYPE HERE:>> hi                                                         #RANDOM FEATURE TO GENERATE GREETINGS
+Hello! I will prepare food for you. Are you a vegetarian?
+
+TYPE HERE:>> yes
+Cool! What do you want to eat?
+
+TYPE HERE:>> beef
+Wait...You said you are a vegetarian. Are you sure you want beef?       #MEMORY FEATURE REMEMBER THE USER IS VEGAN
+
+TYPE HERE>> yes
+Thank you for your order.
+
+TYPE HERE:>> garlic
+Thank you for your order.
+
+TYPE HERE:>> garlic
+You have already ordered it.
+Thank you for your order.
+
+TYPE HERE:>> garlic
+You don't have to repeat your order.
+Thank you for your order.
+
+TYPE HERE:>> garlic                    #CYCLIC PATTERN WHEN SAME RULE IS CALLED REPEATEDLY
+You have already ordered it.
+Thank you for your order.
+
+
+
+
+
+
