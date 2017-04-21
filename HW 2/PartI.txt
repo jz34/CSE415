@@ -1,0 +1,21 @@
+# Jiawei Zhang
+# 17Fall CSE 415 HW2 partI
+
+3.
+(a) Fido ∈ dogs
+(b) parrots ⊆ birds
+(c) Polly ∈ parrots
+(d) David Jones ∈ Jones
+(e) “George Washington” ∈ great names
+(f) Artificial intelligence ⊆ states of mind  (there are many branches of AI)
+
+
+4.  
+    reflexive | symmetric | transitive | antisymmetric | partial order 
+————————————————————————————————————————————————————————————————————————
+(a)    Yes    |     Yes   |     Yes    |      Yes      |	 No
+(b)    No     |     No    |     Yes    |      Yes      |	 No
+(c)    Yes    |     No    |     Yes    |      Yes      |	 Yes
+(d)    No     |     No    |     No     |      Yes      |	 No
+(e)    Yes    |     Yes   |     Yes    |      Yes      |	 Yes
+
