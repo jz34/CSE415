@@ -1,0 +1,19 @@
+# Jiawei Zhang   1337686
+# CSE 415 HW3 PartI
+
+
+1. ”Tic-Tac-Toe" (5 points)
+
+   9*8*7*6*5/6/2 = 1260
+
+
+
+2. “Tri-Tac-Toe" (10 points)
+
+   27*26*25*24*23*22/2/2/2 = 26640900
+
+
+
+3. Purple Paperweights (Optional, for 5 points of extra credit)
+
+   2^(n^2) - 2^((n^2)/4) - 2^(((n^2)/2) + 1)
